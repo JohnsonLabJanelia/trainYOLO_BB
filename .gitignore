@@ -1,0 +1,23 @@
+# Images
+*.jpg
+*.jpeg
+*.png
+
+# Model checkpoints
+*.pt
+
+# Text/metadata
+*.txt
+*.json
+
+# Config/data artifacts
+*.yaml
+*.yml
+*.csv
+*.cache
+
+# TensorRT engine artifacts
+*.engine
+*.plan
+engine/
+archive/engine_backups/
